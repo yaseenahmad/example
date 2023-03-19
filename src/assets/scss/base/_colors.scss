@@ -1,0 +1,19 @@
+/**
+  Hey team, I'm cleaning up the code and introducing a new color policy.
+  Please use colors defined in a designated file to avoid conflicts.
+  If a color you need isn't there, update the file first and include it in your component.
+  We'll move the file to the app level once we update it everywhere.
+*/
+
+// theme
+$primary: #690FAD;
+$primary-light: #7812C6;
+$secondary: #CAA8F5;
+$secondary-light: #efe5f9;
+
+
+// neutrals
+$white: #ffffff;
+$black: #000000;
+
+$fontColor: $black;
